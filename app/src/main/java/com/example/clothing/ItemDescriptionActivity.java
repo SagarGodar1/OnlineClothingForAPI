@@ -24,7 +24,7 @@ public class ItemDescriptionActivity extends AppCompatActivity {
             txtname.setText(bundle.getString("name"));
             txtprice.setText("रू "+bundle.getString("price"));
             txtdesc.setText(bundle.getString("desc"));
-            //
+            /////
 
         }
     }
